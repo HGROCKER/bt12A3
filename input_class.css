@@ -10,11 +10,13 @@ div.cuahang div.box_mini div:hover {
 }
 
 .light_hover:hover {
-    text-shadow: 0px 0px 3px rgb(255, 255, 255);    
+    text-shadow: 0px 0px 1px rgb(255, 255, 255);    
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
 }
 
 .to_up:hover {
-    text-shadow: 0px 0px 3px rgb(255, 255, 255);
+    text-shadow: 0px 0px 1px rgb(255, 255, 255);
+    box-shadow: 0px 0px 4px rgb(33, 27, 110);
 }
 .banner:hover {
     text-shadow: 6px 6px 6px rgb(0, 0, 0);
@@ -27,7 +29,6 @@ div.cuahang div.box_mini div:hover {
     text-align: center;
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
     font-weight: 600;
-
 }
 .to_up {
     background-color: #453097;
