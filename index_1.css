@@ -15,14 +15,14 @@ form.ktra input[type="text"] {
 
 div.style1 div.footer button {
     width: 23%;
-    height: auto;
+    height:max-content;
     margin: 0;
     color: white;
     text-shadow: 1px 1px 1px black;
 
     padding: 0;
     display: inline-block;
-    font-size: x-large;
+    font-size: 3cqmax;
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #453097;
@@ -32,8 +32,6 @@ div div.footer a button:hover {
     box-shadow: 2px 2px 2px #ffffff;
     background-color: #372777;
     text-shadow: 0px 0px 2px rgb(255, 255, 255);
-    font-weight: 600;
-    font-size: x-large;
 }
 
 div.box fieldset{
